@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Java
 
 *.class
@@ -62,3 +63,13 @@ build/
 
 ## OS Specific
 .DS_Store
+=======
+.gradle
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+>>>>>>> 5e671ce33ede7421ba0dd69da288ae2e858aafb8
